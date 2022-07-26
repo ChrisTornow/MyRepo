@@ -52,5 +52,4 @@ while playAgain = 'yes' or playAgain = 'y':
 	if playAgain == "no":
 		print("Thanks for planing")
 
-
 # I added this line to the bottom
