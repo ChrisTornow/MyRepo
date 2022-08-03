@@ -1,2 +1,0 @@
-import fileManager
-fileManager.main()
