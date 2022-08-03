@@ -1,0 +1,15 @@
+[[package]]
+name = "cursor"
+version = "1.3.5"
+description = "A small Python package to hide or show the terminal cursor"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "169be49a60a5d57132179784e6c9e69188f7f0131f90eb39d64c2f703c49580c"
+
+[metadata.files]
+cursor = []
